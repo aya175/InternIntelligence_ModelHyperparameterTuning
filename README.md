@@ -32,6 +32,7 @@ Measures performance using accuracy score, classification report, and confusion 
 Visualizes feature importance to understand which factors contribute most to crime predictions.
 
 Final Outcome
+
 The project successfully improves crime prediction accuracy through hyperparameter tuning.
 The trained model can help in identifying high-risk districts and assist law enforcement in decision-making.
 The analysis provides insights into important crime factors, helping in policy-making and crime prevention strategies.
