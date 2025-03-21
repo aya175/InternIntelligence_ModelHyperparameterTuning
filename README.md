@@ -1,5 +1,7 @@
-##Crime Prediction Using Machine Learning
-#Objective
+Crime Prediction Using Machine Learning
+
+Objective
+
 The project aims to predict the occurrence of Dacoity (a type of crime) in different districts based on various crime-related features.
 Using machine learning techniques, specifically RandomForestClassifier, the goal is to create a model that can accurately classify whether a crime event will occur based on historical data.
 
